@@ -1,0 +1,11 @@
+{
+  "name": "heroku-branch-config-issue",
+  "repository": {
+    "url": "github:DopplerUniversity/heroku-branch-config-issue"
+  },
+  "scripts": {},
+  "dependencies": {
+    "js-yaml": "^4.1.0",
+    "random-words": "^1.1.2"
+  }
+}
